@@ -1,0 +1,8 @@
+# Ignore all executable files under Windows
+*.exe
+
+# Ignore all files without extensions
+# Ignore executable files under unix-like OS
+*
+!*.*
+!*/
