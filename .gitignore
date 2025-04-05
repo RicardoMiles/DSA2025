@@ -10,3 +10,5 @@
 # Ignore temporary files from OS
 .DS_Store
 Thumbs.db
+*.csv
+*.txt
