@@ -9,9 +9,9 @@ public:
     void draw();
     int getArea();
     int getWidth();
-    void setWidth();
+    void setWidth(int widthInput);
     int getHeight();
-    void setHeight();
+    void setHeight(int heightInput);
 private:
     int width;
     int height;
