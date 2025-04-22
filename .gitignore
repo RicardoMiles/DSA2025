@@ -16,3 +16,4 @@ Thumbs.db
 ## macOS VS Code
 /MoshCPP/.vscode
 *.dSYM/
+*.exe
